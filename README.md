@@ -1,9 +1,9 @@
 
 
-# HELLO KLASMEYT/TROPA O KUNG SINO KA MAN !!! 👋
+## HELLO KLASMEYT/TROPA O KUNG SINO KA MAN !!! 👋
 Salamat sa pagbisita! At dahil dyan, may **+10** ligtas points ka ☝
 
-[![Facebook URL]()](https://facebook.com/stvnsrrn18)
+[![Facebook URL](https://img.shields.io/badge/FB-stvnsrrn18-blue)](https://facebook.com/stvnsrrn18)
 
 <!--
 **serrano1314/serrano1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
