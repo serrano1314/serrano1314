@@ -2,6 +2,7 @@
 
 ## HELLO KLASMEYT/TROPA O KUNG SINO KA MAN !!! 👋
 Salamat sa pagbisita! At dahil dyan, may **+10** ligtas points ka ☝
+Contribute ka lang sa mga repo ko, para sa collaboration
 
 [![Facebook URL](https://img.shields.io/badge/FB-stvnsrrn18-blue)](https://facebook.com/stvnsrrn18)
 
