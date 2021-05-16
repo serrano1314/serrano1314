@@ -1,8 +1,6 @@
 
 
-## HELLO !!! 👋
-- Salamat sa pagbisita! At dahil dyan, may **+10** ligtas points ka ☝
-- Pull req. lang sa mga repo ko 🙂
+## HELLO DEVS!!! 👋
 
 [![Facebook URL](https://img.shields.io/badge/FB-stvnsrrn18-blue)](https://facebook.com/stvnsrrn18)
 
