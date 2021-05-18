@@ -3,8 +3,8 @@
 ## HELLO DEVS!!! 👋
 
 [![Facebook URL](https://img.shields.io/badge/FB-stvnsrrn18-blue)](https://facebook.com/stvnsrrn18)
-[![Car Game URL](https://img.shields.io/badge/JS-Mini Car Game-blue)](https://serrano1314.github.io/mini-car-game/)
-[![Crossword URL](https://img.shields.io/badge/HTML CSS-Crossword-blue)](https://serrano1314.github.io/Crossword/)
+[![Car Game URL](https://img.shields.io/badge/JS-Mini%Car%Game-blue)](https://serrano1314.github.io/mini-car-game/)
+[![Crossword URL](https://img.shields.io/badge/HTML%20CSS-Crossword-blue)](https://serrano1314.github.io/Crossword/)
 
 <!--
 **serrano1314/serrano1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
