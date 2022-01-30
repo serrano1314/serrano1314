@@ -9,7 +9,9 @@
 [![Crossword URL](https://img.shields.io/badge/HTML%20CSS-Crossword-blue)](https://serrano1314.github.io/Crossword/)</br>
 [![Quizzy URL](https://img.shields.io/badge/JS-Quizzy-blue)](https://serrano1314.github.io/Quizzy/)
 [![Currency Converter URL](https://img.shields.io/badge/JS-CurrencyConverter-blue)](https://serrano1314.github.io/currency-converter/)
-[![Blog Website URL](https://img.shields.io/badge/HTML%20CSS-Blog%20Website-blue)](https://serrano1314.github.io/stevensBlogWebsite/)
+[![Blog Website URL](https://img.shields.io/badge/HTML%20CSS-Blog%20Website-blue)](https://serrano1314.github.io/stevensBlogWebsite/)</br>
+[![TeamDevz URL](https://img.shields.io/badge/JS-TeamDevs-blue)](https://vigilant-lamport-4371db.netlify.app/)
+
 
 
 
