@@ -12,4 +12,4 @@
 <h6>
 You can also play games with me, I stream games here:</h6>
 
-[![Twitch](https://img.shields.io/twitch/status/chunmaroo)](https://www.twitch.com/chunmaroo)
+[![Twitch](https://img.shields.io/twitch/status/chunmaroo)](https://www.twitch.tv/chunmaroo)
