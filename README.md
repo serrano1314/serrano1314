@@ -10,6 +10,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serrano1314&layout=compact&langs_count=10&theme=transparent)
 
 <h6>
-You can also play games with me, I stream games on here:</h6>
+You can also play games with me, I stream games here:</h6>
 
 [![Twitch](https://img.shields.io/twitch/status/chunmaroo)](https://www.twitch.com/chunmaroo)
