@@ -5,7 +5,7 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01119acecf50c56635)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWQJkR_WABFqvHgXcPeMt9A)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serrano1314&layout=compact&langs_count=10&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serrano1314&layout=compact&langs_count=10&theme=transparent&hide=html)
 <h6>
 You can also play games with me, I stream games here:</h6>
 
